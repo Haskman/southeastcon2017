@@ -1,3 +1,2 @@
-# SoutheastCon 2017
-
-We do IoT stuff here.s
+# southeastcon2017
+# Make America Chris Again!
